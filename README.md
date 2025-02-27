@@ -51,7 +51,7 @@ Flutter (versão 3.x ou superior)
 
 Dart (versão 2.x ou superior)
 
-Um emulador Android/iOS ou dispositivo físico
+Um emulador Android ou dispositivo físico
 
 Editor recomendado: VS Code ou Android Studio
 
