@@ -1,0 +1,41 @@
+name: Financas
+description: "Aplicativo de Controle de Gastos"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path: ^1.8.0
+  intl: ^0.19.0
+  sqflite: ^2.4.1
+  shared_preferences: ^2.2.0
+  flutter_masked_text2: ^0.9.1
+  provider: ^6.1.2
+  fl_chart: ^0.70.2
+  path_provider: ^2.0.0
+  flutter_file_dialog: ^3.0.2
+  csv: ^5.0.0
+  flutter_local_notifications: ^18.0.1
+  flutter_background_service: ^5.0.7
+  dynamic_color: ^1.7.0
+  flutter_colorpicker: ^1.1.0
+  local_auth: ^2.3.0
+  pdf: ^3.10.8
+  printing: ^5.13.3
+  infinite_scroll_pagination: ^4.0.0
+  file_picker: ^9.0.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
