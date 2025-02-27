@@ -1,5 +1,8 @@
 Minhas Finanças
+
 Flutter
+
+
 Minhas Finanças é um aplicativo de gerenciamento financeiro pessoal desenvolvido em Flutter, projetado para ajudar usuários a organizar suas finanças, acompanhar receitas e despesas, definir metas financeiras e visualizar relatórios detalhados. Com uma interface amigável, suporte a personalização e recursos avançados como autenticação e backups automáticos, é uma ferramenta poderosa para controle financeiro no dia a dia.
 Funcionalidades
 Gerenciamento de Transações:
