@@ -51,40 +51,7 @@ Capturas de Tela
 Como Executar o Projeto
 Pré-requisitos
 Flutter (versão 3.x ou superior)
-
 Dart (versão 2.x ou superior)
-
-Um emulador Android ou dispositivo físico
-
-Editor recomendado: VS Code ou Android Studio
-
-Passos para Instalação
-Clone o Repositório:
-bash
-
-git clone https://github.com/seu-usuario/minhas-financas.git
-cd minhas-financas
-
-Instale as Dependências:
-bash
-
-flutter pub get
-
-Configure o Ambiente:
-Certifique-se de que um dispositivo ou emulador esteja conectado.
-
-Para Android, configure o AndroidManifest.xml com permissões necessárias (ex.: notificações, armazenamento).
-
-Execute o Aplicativo:
-bash
-
-flutter run
-
-Build para Produção (opcional):
-Android:
-bash
-
-flutter build apk --release
 
 Tecnologias Utilizadas
 Flutter: Framework principal para construção da UI multiplataforma.
@@ -109,40 +76,6 @@ flutter_background_service: Backup automático.
 intl: Formatação de datas e moedas.
 
 Veja todas as dependências no arquivo pubspec.yaml.
-Estrutura do Projeto
-
-minhas-financas/
-├── lib/
-│   ├── screens/            # Telas do aplicativo (UI)
-│   ├── utils/              # Utilitários (helpers, serviços)
-│   └── main.dart           # Ponto de entrada
-├── pubspec.yaml           # Dependências e configurações
-└── README.md              # Documentação
-
-Contribuindo
-Faça um fork do projeto.
-
-Crie uma branch para sua feature:
-bash
-
-git checkout -b minha-feature
-
-Commit suas mudanças:
-bash
-
-git commit -m "Adiciona minha feature"
-
-Envie para o repositório remoto:
-bash
-
-git push origin minha-feature
-
-Abra um Pull Request.
-
-Notas
-Backup no Google Drive: A funcionalidade está parcialmente implementada e requer integração adicional com APIs do Google.
-
-Testes: Recomenda-se adicionar testes unitários e de integração para robustez.
 
 Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
