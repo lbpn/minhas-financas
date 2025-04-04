@@ -58,25 +58,6 @@ Flutter: Framework principal para construção da UI multiplataforma.
 
 Dart: Linguagem de programação.
 
-SQLite: Banco de dados local via sqflite.
-
-Provider: Gerenciamento de estado.
-
-Dependências principais:
-flutter_local_notifications: Notificações recorrentes.
-
-local_auth: Autenticação biométrica.
-
-fl_chart: Gráficos financeiros.
-
-shared_preferences: Armazenamento de configurações.
-
-flutter_background_service: Backup automático.
-
-intl: Formatação de datas e moedas.
-
-Veja todas as dependências no arquivo pubspec.yaml.
-
 Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
 
